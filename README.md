@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAYUR%20S%20PATEL&fontSize=48&fontColor=C9A9FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAYUR%20S%20PATEL&fontSize=48&fontColor=C9A9FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20Development&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7BFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Aspiring+Backend+Engineer;Exploring+AI+%2F+ML+%2B+Image+Processing;Building+Scalable+Systems,+One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7BFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Aspiring+Backend+Engineer;Learning+ML+%26+Data+Science+on+the+side;Building+Scalable+Systems,+One+Commit+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
@@ -34,19 +34,19 @@
 ```yaml
 name: Mayur S Patel
 role: Software Engineer (Undergraduate)
-focus: Full Stack Development · Backend Systems · AI/ML Foundations
+focus: Backend Engineering · Full Stack Development · ML (secondary interest)
 university: DEPSTAR, CHARUSAT University
 graduation: Expected 2028
 cgpa: 7.72
 ```
 
-I'm a Computer Science undergraduate focused on **software engineering** and **full stack development**, with a growing specialization in **backend systems design** and **scalable application architecture**. I build production-style web applications end to end — from authentication and database design to responsive, user-centric interfaces — and I'm currently deepening my expertise in **Machine Learning, Data Science, and Image Processing** to bring intelligent capabilities into the products I ship.
+I'm a Computer Science undergraduate primarily focused on **backend engineering** and **full stack development**, building production-style web applications end to end — from authentication and database design to scalable API architecture and responsive, user-centric interfaces. Alongside this, I'm exploring **Machine Learning and Data Science** as a supporting interest to broaden how I approach intelligent, data-driven features.
 
-My engineering approach centers on writing clean, maintainable code, understanding systems deeply rather than superficially, and continuously translating new theory (DSA, ML fundamentals) into working software.
+My engineering approach centers on writing clean, maintainable code, understanding systems deeply rather than superficially, and consistently translating new theory (DSA, backend design patterns) into working software.
 
 <div align="center">
 
-**🎯 Open To:** Backend Engineering Roles · Full Stack Internships · Open Source Collaboration · AI/ML Project Work
+**🎯 Open To:** Backend Engineering Roles · Full Stack Internships · Open Source Collaboration
 
 </div>
 
@@ -96,15 +96,47 @@ My engineering approach centers on writing clean, maintainable code, understandi
 
 ---
 
-## 🧠 AI / ML & Data Focus
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=PtlMayur19&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=9D7BFF&icon_color=C9A9FF&text_color=E0D9FF&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=PtlMayur19&theme=radical&hide_border=true&background=0D0221&stroke=9D7BFF&ring=8A2BE2&fire=C9A9FF&currStreakLabel=E0D9FF" width="49%" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PtlMayur19&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=9D7BFF&text_color=E0D9FF" width="49%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true&bg_color=0D0221&color=9D7BFF&line=8A2BE2&point=C9A9FF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=PtlMayur19&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🧠 AI / ML & Data Focus (Secondary Interest)
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Machine Learning | 🟣 Learning | Core ML concepts, scikit-learn, model building fundamentals |
-| Data Science & Visualization | 🟣🟣 Developing | Pandas, NumPy, Matplotlib, Plotly — completed certification |
-| Image Processing | 🟣 Learning | Exploring computer-vision fundamentals for applied projects |
+| Machine Learning | 🟣 Exploring | Core ML concepts, scikit-learn — not a primary focus, learning alongside backend work |
+| Data Science & Visualization | 🟣🟣 Developing | Pandas, NumPy, Matplotlib, Plotly |
 | Data Structures & Algorithms | 🟣🟣🟣 Practicing | Dynamic Programming, Greedy Algorithms, ongoing C++ practice |
 
 </div>
@@ -146,84 +178,13 @@ GrowVeda combines full stack engineering with applied AI — the platform's dise
 
 ---
 
-## 🏅 Achievements & Leadership
+## 💻 Coding Profile
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🧘 AIU National-Level Yoga Athlete | Represented CHARUSAT University at the All India University Yoga Championship |
-| 🎥 CHARUSAT Media Crew (CMC) | Contributed to media coverage, photography, and event documentation for university events |
-| 🛠️ Technical Workshops | Active participant in university-level technical workshops and events |
+[![LeetCode](https://leetcode-stats-badge.herokuapp.com/moHw0CSNV2)](https://leetcode.com/u/moHw0CSNV2/)
 
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![Core Java](https://img.shields.io/badge/Core%20Java-Specialization-6A0DAD?style=for-the-badge&logo=java&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data%20Visualization-with%20Python-7B2FF7?style=for-the-badge&logo=python&logoColor=white)
-![SE](https://img.shields.io/badge/Software%20Engineering-Specialization-8A2BE2?style=for-the-badge&logo=coursera&logoColor=white)
-![DP](https://img.shields.io/badge/Dynamic%20Programming-%26%20Greedy%20Algorithms-9D7BFF?style=for-the-badge&logo=leetcode&logoColor=white)
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7B2FF7?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-9D7BFF?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=PtlMayur19&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=9D7BFF&icon_color=C9A9FF&text_color=E0D9FF&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=PtlMayur19&theme=radical&hide_border=true&background=0D0221&stroke=9D7BFF&ring=8A2BE2&fire=C9A9FF&currStreakLabel=E0D9FF" width="49%" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PtlMayur19&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=9D7BFF&text_color=E0D9FF" width="49%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=PtlMayur19&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true&bg_color=0D0221&color=9D7BFF&line=8A2BE2&point=C9A9FF)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mayur-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moHw0CSNV2/)
 
 </div>
 
@@ -232,9 +193,9 @@ GrowVeda combines full stack engineering with applied AI — the platform's dise
 ## 🌱 Current Focus
 
 ```yaml
-Learning:   Machine Learning · Image Processing · System Design
+Learning:   Backend Engineering at Scale · System Design
 Building:   GrowVeda (AI-Powered Plant Care Platform)
-Exploring:  Backend Engineering at Scale · Data Science Workflows
+Exploring:  Machine Learning & Data Science (secondary interest)
 Open To:    Internships · Backend/Full Stack Roles · Collaborative OSS Projects
 ```
 
