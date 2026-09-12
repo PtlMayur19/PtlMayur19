@@ -152,8 +152,6 @@ GrowVeda demonstrates robust full stack development and backend engineering — 
 
 <div align="center">
 
-[![LeetCode](https://leetcode-stats-badge.herokuapp.com/moHw0CSNV2)](https://leetcode.com/u/moHw0CSNV2/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Mayur-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moHw0CSNV2/)
 
 </div>
@@ -176,17 +174,15 @@ GrowVeda demonstrates robust full stack development and backend engineering — 
 
 ## 📈 Contribution Activity
 
-<div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
----
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true"
+    alt="Mayur's GitHub Activity Graph"
+  />
+</p>
 
 ---
+
 
 
 
@@ -204,7 +200,6 @@ GrowVeda demonstrates robust full stack development and backend engineering — 
 
 ---
 
----
 
 ## 🌱 Current Focus
 
