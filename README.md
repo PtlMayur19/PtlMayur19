@@ -173,12 +173,10 @@ GrowVeda demonstrates robust full stack development and backend engineering — 
 
 ---
 
-## 📈 Contribution Activity
 
 ## 📈 Contribution Activity
 
 <div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true)
 
 </div>
