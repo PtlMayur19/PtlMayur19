@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAYUR%20S%20PATEL&fontSize=48&fontColor=C9A9FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20Development&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAYUR%20S%20PATEL&fontSize=48&fontColor=C9A9FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20Engineering&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7BFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Aspiring+Backend+Engineer;Learning+ML+%26+Data+Science+on+the+side;Building+Scalable+Systems,+One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7BFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Backend+Engineer+in+Progress;Building+Scalable+Backend+Systems;Learning+Machine+Learning+as+Part+of+My+Curriculum;Building+Scalable+Systems,+One+Commit+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
@@ -34,15 +34,13 @@
 ```yaml
 name: Mayur S Patel
 role: Software Engineer (Undergraduate)
-focus: Backend Engineering · Full Stack Development · ML (secondary interest)
+focus: Full Stack Development · Backend Engineering
 university: DEPSTAR, CHARUSAT University
 graduation: Expected 2028
 cgpa: 7.72
 ```
 
-I'm a Computer Science undergraduate primarily focused on **backend engineering** and **full stack development**, building production-style web applications end to end — from authentication and database design to scalable API architecture and responsive, user-centric interfaces. Alongside this, I'm exploring **Machine Learning and Data Science** as a supporting interest to broaden how I approach intelligent, data-driven features.
-
-My engineering approach centers on writing clean, maintainable code, understanding systems deeply rather than superficially, and consistently translating new theory (DSA, backend design patterns) into working software.
+I am a Computer Science undergraduate focused on **Full Stack Development** and **Backend Engineering**, specializing in building production-style web applications. My core engineering work revolves around server-side development, database design, authentication, REST APIs, and scalable application architecture. Alongside System Design and problem solving, I am currently studying **Machine Learning** as part of my academic curriculum.
 
 <div align="center">
 
@@ -80,17 +78,83 @@ My engineering approach centers on writing clean, maintainable code, understandi
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 ![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)
 
-**AI / Data Science & Tooling**
+**Machine Learning — Academic Coursework**
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=dark)
+
+**Tools**
+
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+
+</div>
+
+---
+
+## 📚 Machine Learning & Data Coursework
+
+<div align="center">
+
+| Domain | Status | Details |
+|---|:---:|---|
+| Machine Learning | 📘 Studying | Learning core ML concepts and model-building fundamentals as part of coursework |
+| Data Science & Visualization | 📘 Learning | Working with Pandas, NumPy, Matplotlib and Plotly |
+| Image Processing | 📘 Learning | Studying fundamental image-processing concepts |
+| Data Structures & Algorithms | 🟣🟣🟣 Practicing | Dynamic Programming, Greedy Algorithms, ongoing C++ practice |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🌿 GrowVeda — Full Stack Plant Care Platform</b></summary>
+<br/>
+
+A full stack plant care platform engineered for monitoring and maintaining healthy plants through structured diagnostics, automated care schedules, and backend service integration.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Next.js · React · Node.js · Supabase · Tailwind CSS |
+| **Core Features** | Plant disease diagnosis, personalized care schedules, weather-based irrigation API integration |
+| **Security** | Secure authentication system for user accounts and data privacy |
+| **Experience** | Interactive dashboard for managing plant data with a responsive, modern UI |
+| **Impact** | Delivers a practical web solution with solid backend integration for plant care management |
+| **Repository** | [github.com/PtlMayur19](https://github.com/PtlMayur19) |
+
+GrowVeda demonstrates robust full stack development and backend engineering — featuring secure user authentication, database integration, and structured API endpoints layered with intelligent plant care diagnostic logic.
+
+</details>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Timeline | CGPA |
+|---|---|:---:|:---:|
+| B.Tech, Computer Science | DEPSTAR, CHARUSAT University | Expected 2028 | 7.72 |
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://leetcode-stats-badge.herokuapp.com/moHw0CSNV2)](https://leetcode.com/u/moHw0CSNV2/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mayur-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moHw0CSNV2/)
 
 </div>
 
@@ -129,62 +193,15 @@ My engineering approach centers on writing clean, maintainable code, understandi
 
 ---
 
-## 🧠 AI / ML & Data Focus (Secondary Interest)
+## 🐍 Contribution Snake
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | 🟣 Exploring | Core ML concepts, scikit-learn — not a primary focus, learning alongside backend work |
-| Data Science & Visualization | 🟣🟣 Developing | Pandas, NumPy, Matplotlib, Plotly |
-| Data Structures & Algorithms | 🟣🟣🟣 Practicing | Dynamic Programming, Greedy Algorithms, ongoing C++ practice |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>🌿 GrowVeda — AI-Powered Intelligent Plant Care Platform</b></summary>
-<br/>
-
-An AI-assisted smart plant care platform that helps users monitor and maintain healthy plants through intelligent diagnostics and personalized guidance.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Next.js · React · Node.js · Supabase · Tailwind CSS |
-| **Core Features** | Plant disease detection, personalized care recommendations, weather-based irrigation suggestions |
-| **Security** | Secure authentication system for user accounts and data |
-| **Experience** | Interactive dashboard for managing plant information with a responsive, modern UI |
-| **Impact** | Delivers an intelligent digital solution for home gardeners and agriculture enthusiasts |
-| **Repository** | [github.com/PtlMayur19](https://github.com/PtlMayur19) |
-
-GrowVeda combines full stack engineering with applied AI — the platform's disease-detection and recommendation logic is layered on top of a secure, production-style backend, reflecting an end-to-end approach to building intelligent software products.
-
-</details>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Timeline | CGPA |
-|---|---|:---:|:---:|
-| B.Tech, Computer Science | DEPSTAR, CHARUSAT University | Expected 2028 | 7.72 |
-
-</div>
-
----
-
-## 💻 Coding Profile
-
-<div align="center">
-
-[![LeetCode](https://leetcode-stats-badge.herokuapp.com/moHw0CSNV2)](https://leetcode.com/u/moHw0CSNV2/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Mayur-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moHw0CSNV2/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -193,10 +210,10 @@ GrowVeda combines full stack engineering with applied AI — the platform's dise
 ## 🌱 Current Focus
 
 ```yaml
-Learning:   Backend Engineering at Scale · System Design
-Building:   GrowVeda (AI-Powered Plant Care Platform)
-Exploring:  Machine Learning & Data Science (secondary interest)
-Open To:    Internships · Backend/Full Stack Roles · Collaborative OSS Projects
+Learning:   Backend Engineering · System Design · Full Stack Development
+Building:   GrowVeda (Full Stack Plant Care Platform)
+Practicing: APIs · Databases · Authentication · Scalable Backend Systems
+Open To:    Internships · Full Stack/Backend Roles · Collaborative OSS Projects
 ```
 
 ---
@@ -216,7 +233,7 @@ Open To:    Internships · Backend/Full Stack Roles · Collaborative OSS Project
 
 <div align="center">
 
-*"Building scalable systems and intelligent software, one commit at a time."*
+*"Building reliable software and learning backend systems, one commit at a time."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
