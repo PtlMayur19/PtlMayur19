@@ -1,188 +1,160 @@
 <div align="center">
 
-<a href="https://github.com/PtlMayur19">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=MAYUR%20S%20PATEL&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Aspiring%20Backend%20Engineer&descAlignY=58&descSize=17" width="100%" />
-</a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAYUR%20S%20PATEL&fontSize=48&fontColor=C9A9FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18)
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9D7BFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Aspiring+Backend+Engineer;Exploring+AI+%2F+ML+%2B+Image+Processing;Building+Scalable+Systems,+One+Commit+at+a+Time" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Aspiring+Backend+Engineer;DSA+%7C+C%2B%2B+%7C+Problem+Solving;Exploring+AI%2C+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
-</a>
+<br/>
 
-<br><br>
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=studyverse&logoColor=white)
+![University](https://img.shields.io/badge/DEPSTAR-CHARUSAT%20University-4B0082?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Surat,%20Gujarat,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<img src="https://img.shields.io/badge/B.Tech%20Computer%20Science-DEPSTAR%20%7C%20CHARUSAT-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Expected%20Graduation-2028-4C1D95?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-7.72-312E81?style=for-the-badge&logo=academia&logoColor=white" />
+<br/>
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/PtlMayur19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelmayur19)
+[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19.maayur@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PtlMayur19)
 
-<img src="https://img.shields.io/badge/Surat%2C%20Gujarat%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<br/>
 
-<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=PtlMayur19&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/PtlMayur19?color=6A0DAD&style=for-the-badge&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/PtlMayur19?color=9D7BFF&style=for-the-badge&label=STARS&logo=github)
 
-<a href="https://github.com/PtlMayur19">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/patelmayur19">
-  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:19.maayur@gmail.com">
-  <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/PtlMayur19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</div>
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=PtlMayur19&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/PtlMayur19?label=FOLLOWERS&style=for-the-badge&color=4C1D95" />
-<img src="https://img.shields.io/github/stars/PtlMayur19?label=STARS&style=for-the-badge&color=312E81" />
+---
+
+## 🧬 About Me
+
+```yaml
+name: Mayur S Patel
+role: Software Engineer (Undergraduate)
+focus: Full Stack Development · Backend Systems · AI/ML Foundations
+university: DEPSTAR, CHARUSAT University
+graduation: Expected 2028
+cgpa: 7.72
+```
+
+I'm a Computer Science undergraduate focused on **software engineering** and **full stack development**, with a growing specialization in **backend systems design** and **scalable application architecture**. I build production-style web applications end to end — from authentication and database design to responsive, user-centric interfaces — and I'm currently deepening my expertise in **Machine Learning, Data Science, and Image Processing** to bring intelligent capabilities into the products I ship.
+
+My engineering approach centers on writing clean, maintainable code, understanding systems deeply rather than superficially, and continuously translating new theory (DSA, ML fundamentals) into working software.
+
+<div align="center">
+
+**🎯 Open To:** Backend Engineering Roles · Full Stack Internships · Open Source Collaboration · AI/ML Project Work
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a **Computer Science undergraduate** passionate about **Software Engineering, Full Stack Development, and Backend Engineering**. I enjoy building responsive web applications and turning ideas into practical software solutions.
-
-Currently focused on the **MERN stack**, while developing a stronger foundation in backend engineering, scalable applications, system design, and problem solving with **C++ and DSA**.
-
-I’m also expanding my expertise into **Data Science, Machine Learning, and Image Processing**, with an interest in combining intelligent technologies with modern software systems.
-
-My approach to engineering is centered around:
-
-- Building clean, maintainable, and scalable software
-- Understanding systems beyond just the frontend
-- Solving problems through strong fundamentals and DSA
-- Exploring AI/ML applications in real-world products
-- Continuously improving through projects and hands-on development
-- Thinking from both an engineering and product perspective
-
-### 🎯 Open To
-
-**Backend Engineering • Full Stack Development • Software Engineering • AI/ML Projects • Open Source Collaboration • Technical Internships**
-
----
-
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,sql&theme=dark" />
-</p>
+**Languages**
 
-### Frontend
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-</p>
+**Frontend**
 
-### Backend & Databases
+![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,supabase&theme=dark" />
-</p>
+**Backend & Databases**
 
-### Cloud, DevOps & Tooling
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express](https://skillicons.dev/icons?i=express&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter&theme=dark" />
-</p>
+**AI / Data Science & Tooling**
 
-### Additional Technologies
+![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
 
-<p>
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## 🤖 AI / ML & Data Science Expertise
+## 🧠 AI / ML & Data Focus
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Data Science | 🟣 Developing | Data analysis and data-driven problem solving |
-| Machine Learning | 🟣 Learning | Exploring machine learning concepts and intelligent applications |
-| Image Processing | 🟣 Learning | Exploring image-based processing and intelligent software solutions |
-| Python Data Stack | 🟣 Developing | NumPy, Pandas, Matplotlib, Plotly |
-| ML Libraries | 🟣 Learning | Scikit-learn and PyTorch |
+|---|:---:|---|
+| Machine Learning | 🟣 Learning | Core ML concepts, scikit-learn, model building fundamentals |
+| Data Science & Visualization | 🟣🟣 Developing | Pandas, NumPy, Matplotlib, Plotly — completed certification |
+| Image Processing | 🟣 Learning | Exploring computer-vision fundamentals for applied projects |
+| Data Structures & Algorithms | 🟣🟣🟣 Practicing | Dynamic Programming, Greedy Algorithms, ongoing C++ practice |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><strong>🌱 GrowVeda — AI-Powered Intelligent Plant Care Platform</strong></summary>
+<details open>
+<summary><b>🌿 GrowVeda — AI-Powered Intelligent Plant Care Platform</b></summary>
+<br/>
 
-<br>
+An AI-assisted smart plant care platform that helps users monitor and maintain healthy plants through intelligent diagnostics and personalized guidance.
 
-An AI-assisted smart plant care platform designed to help users monitor and maintain healthy plants through intelligent recommendations and an interactive digital experience.
+| Aspect | Detail |
+|---|---|
+| **Stack** | Next.js · React · Node.js · Supabase · Tailwind CSS |
+| **Core Features** | Plant disease detection, personalized care recommendations, weather-based irrigation suggestions |
+| **Security** | Secure authentication system for user accounts and data |
+| **Experience** | Interactive dashboard for managing plant information with a responsive, modern UI |
+| **Impact** | Delivers an intelligent digital solution for home gardeners and agriculture enthusiasts |
+| **Repository** | [github.com/PtlMayur19](https://github.com/PtlMayur19) |
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Next.js • React • Node.js • Supabase • Tailwind CSS |
-| **Scale** | Full-stack intelligent web platform |
-| **Performance** | Responsive architecture with an interactive dashboard |
-| **Security** | Secure authentication system |
-| **Impact** | Plant disease detection, personalized care recommendations, and weather-based irrigation suggestions |
-| **Repository** | [View Repository](https://github.com/PtlMayur19) |
-
-### Engineering Highlights
-
-- Developed an AI-assisted platform for intelligent plant care.
-- Implemented plant disease detection capabilities.
-- Added personalized plant care recommendations.
-- Integrated weather-based irrigation suggestions.
-- Built secure authentication and an interactive plant management dashboard.
-- Designed a responsive and modern user interface.
-- Focused on practical applications for home gardeners and agriculture enthusiasts.
-
-**Core Technologies**
-
-`Next.js` `React` `Node.js` `Supabase` `Tailwind CSS` `AI/ML`
+GrowVeda combines full stack engineering with applied AI — the platform's disease-detection and recommendation logic is layered on top of a secure, production-style backend, reflecting an end-to-end approach to building intelligent software products.
 
 </details>
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
-### Software Engineering & Development — Academic / Project Experience
+<div align="center">
 
-**Computer Science Undergraduate | DEPSTAR, CHARUSAT**  
-`2024 — Present`
+| Degree | Institution | Timeline | CGPA |
+|---|---|:---:|:---:|
+| B.Tech, Computer Science | DEPSTAR, CHARUSAT University | Expected 2028 | 7.72 |
 
-Developing practical software engineering skills through academic work, technical projects, workshops, and hands-on development across full-stack engineering and emerging AI technologies.
-
-- Building full-stack web applications using modern JavaScript technologies.
-- Developing frontend applications with React and Next.js.
-- Building backend services with Node.js and Express.js.
-- Working with MongoDB, MySQL, and Supabase.
-- Practicing DSA and problem solving using C++.
-- Exploring Machine Learning, Data Science, and Image Processing.
-- Participating in technical workshops and university activities.
-
-**Skills:** `Full Stack Development` `MERN` `Backend Development` `C++` `DSA` `React` `Node.js` `MongoDB` `Data Science`
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements & Leadership
 
 <div align="center">
 
 | Recognition | Details |
-|:---|:---|
-| 🧘 **AIU National-Level Yoga Athlete** | Represented CHARUSAT University at the All India University Yoga Championship |
-| 🎥 **CHARUSAT Media Crew** | Contributed to media coverage, photography, and event documentation |
-| 💻 **Technical Development** | Participated in technical workshops and university events |
+|---|---|
+| 🧘 AIU National-Level Yoga Athlete | Represented CHARUSAT University at the All India University Yoga Championship |
+| 🎥 CHARUSAT Media Crew (CMC) | Contributed to media coverage, photography, and event documentation for university events |
+| 🛠️ Technical Workshops | Active participant in university-level technical workshops and events |
 
 </div>
 
@@ -190,49 +162,25 @@ Developing practical software engineering skills through academic work, technica
 
 ## 📜 Certifications
 
-### AWS
+<div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Technology-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+![Core Java](https://img.shields.io/badge/Core%20Java-Specialization-6A0DAD?style=for-the-badge&logo=java&logoColor=white)
+![Data Viz](https://img.shields.io/badge/Data%20Visualization-with%20Python-7B2FF7?style=for-the-badge&logo=python&logoColor=white)
+![SE](https://img.shields.io/badge/Software%20Engineering-Specialization-8A2BE2?style=for-the-badge&logo=coursera&logoColor=white)
+![DP](https://img.shields.io/badge/Dynamic%20Programming-%26%20Greedy%20Algorithms-9D7BFF?style=for-the-badge&logo=leetcode&logoColor=white)
 
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Core%20Java%20Specialization-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Technical%20Certification-312E81?style=for-the-badge&logo=academia&logoColor=white" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Technical%20Certification-4338CA?style=for-the-badge&logo=cisco&logoColor=white" />
-
-### Additional Certifications
-
-<img src="https://img.shields.io/badge/Data%20Visualization-Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Engineering-Specialization-4C1D95?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Dynamic%20Programming%20%26%20Greedy%20Algorithms-DSA-312E81?style=for-the-badge&logo=leetcode&logoColor=white" />
+</div>
 
 ---
 
-## 🧩 Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-DSA%20%26%20Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-312E81?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4338CA?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7B2FF7?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-9D7BFF?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
 
 </div>
 
@@ -242,27 +190,20 @@ Developing practical software engineering skills through academic work, technica
 
 <div align="center">
 
-<a href="https://github.com/PtlMayur19">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PtlMayur19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" />
-</a>
+<img src="https://github-readme-stats.shion.dev/api?username=PtlMayur19&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=9D7BFF&icon_color=C9A9FF&text_color=E0D9FF&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=PtlMayur19&theme=radical&hide_border=true&background=0D0221&stroke=9D7BFF&ring=8A2BE2&fire=C9A9FF&currStreakLabel=E0D9FF" width="49%" />
 
-<a href="https://github.com/PtlMayur19">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtlMayur19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" />
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=PtlMayur19&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PtlMayur19&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=9D7BFF&text_color=E0D9FF" width="49%" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PtlMayur19&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+![](https://github-profile-trophy.vercel.app/?username=PtlMayur19&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -272,7 +213,7 @@ Developing practical software engineering skills through academic work, technica
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true&bg_color=0D0221&color=9D7BFF&line=8A2BE2&point=C9A9FF)
 
 </div>
 
@@ -282,38 +223,40 @@ Developing practical software engineering skills through academic work, technica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+![Snake animation](https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🌱 Current Focus
 
 ```yaml
-Learning:
-  - Advanced DSA & Problem Solving
-  - Backend Engineering
-  - System Design
-  - Machine Learning
-  - Data Science
-  - Image Processing
+Learning:   Machine Learning · Image Processing · System Design
+Building:   GrowVeda (AI-Powered Plant Care Platform)
+Exploring:  Backend Engineering at Scale · Data Science Workflows
+Open To:    Internships · Backend/Full Stack Roles · Collaborative OSS Projects
+```
 
-Building:
-  - Full Stack Applications
-  - MERN Stack Projects
-  - Scalable Backend Services
-  - AI-assisted Software Solutions
+---
 
-Exploring:
-  - Scalable System Architecture
-  - Intelligent Software Systems
-  - Backend Performance & Security
-  - AI/ML Integration with Web Applications
+## 📬 Connect With Me
 
-Open To:
-  - Software Engineering Internships
-  - Backend Engineering Opportunities
-  - Full Stack Development
-  - AI/ML Projects
-  - Open Source Collaboration
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-19.maayur%40gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19.maayur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-patelmayur19-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelmayur19)
+[![GitHub](https://img.shields.io/badge/GitHub-PtlMayur19-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PtlMayur19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-9D7BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/PtlMayur19)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building scalable systems and intelligent software, one commit at a time."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+
+</div>
