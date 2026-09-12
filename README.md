@@ -175,16 +175,22 @@ GrowVeda demonstrates robust full stack development and backend engineering — 
 
 ## 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true&bg_color=0D0221&color=9D7BFF&line=8A2BE2&point=C9A9FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PtlMayur19&theme=react-dark&hide_border=true)
 
 </div>
 
 ---
 
+---
+
 
 ---
+
+
 
 ## 🐍 Contribution Snake
 
@@ -193,10 +199,12 @@ GrowVeda demonstrates robust full stack development and backend engineering — 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/PtlMayur19/PtlMayur19/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
+
+---
 
 ---
 
