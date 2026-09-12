@@ -183,13 +183,6 @@ GrowVeda demonstrates robust full stack development and backend engineering — 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=PtlMayur19&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
 
 ---
 
